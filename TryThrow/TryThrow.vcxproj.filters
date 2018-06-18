@@ -23,5 +23,11 @@
     <ClInclude Include="SaveArray.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="CMyException.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Library.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

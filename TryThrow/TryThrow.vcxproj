@@ -113,6 +113,8 @@
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CMyException.h" />
+    <ClInclude Include="Library.h" />
     <ClInclude Include="SaveArray.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

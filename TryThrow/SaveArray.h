@@ -1,6 +1,5 @@
 #pragma once
-#include<iostream>
-using namespace std;
+#include"Library.h"
 template<typename T>
 class SaveArray {
 private:
